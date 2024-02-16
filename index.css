@@ -1,0 +1,33 @@
+body{
+    background-color:whitesmoke;
+}
+
+.text{
+    margin:10px 0px;
+    font-size:15px;
+    padding:10px 20px;
+    text-align:center;
+
+}
+.container
+{
+    padding:50px 20px;
+}
+a{
+    border-bottom:1px solid blue;
+}
+.box-part{
+    background-color:white;
+    width:340px;
+    height:350px;
+    padding:30px 0px;
+    margin:30px 0px;
+.fa{
+    margin-top:40px;    
+    color:dodgerblue
+    }
+.box{
+        align-content: center;
+        padding:100px 0px;
+    }
+}
